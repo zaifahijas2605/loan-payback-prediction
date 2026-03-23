@@ -24,6 +24,7 @@ Kaggle Playground Series Season 5, Episode 11
 
 ## How to Run
 pip install -r requirements.txt
+
 streamlit run streamlit_app.py
 
 ## Dataset
