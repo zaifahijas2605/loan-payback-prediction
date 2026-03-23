@@ -1,4 +1,4 @@
-# Loan Default Prediction
+# Loan Payback Prediction
 
 Predicting the probability a borrower will pay back their loan.  
 Kaggle Playground Series Season 5, Episode 11
