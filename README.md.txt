@@ -28,4 +28,4 @@ streamlit run streamlit_app.py
 
 ## Dataset
 Can be found from [Kaggle](https://kaggle.com/competitions/playground-series-s5e11)
-or use the one in Dataset/ folder.
+and place in Dataset/ folder.
